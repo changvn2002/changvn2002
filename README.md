@@ -1,52 +1,41 @@
-# Hi, I'm Nguyen Thanh Chang 👋
+# Nguyen Thanh Chang
 
-### FullStack Developer — Can Tho, Viet Nam
+**FullStack Developer** — Can Tho, Viet Nam
 
-I build web applications and automation systems — from scalable APIs to AI-powered workflows. Over the past 2+ years I have worked on products spanning enterprise knowledge platforms, marketing automation, influencer marketing, e-learning, and real estate search.
+Full-stack developer with 2+ years of experience building web applications and automation systems, from scalable APIs to AI-powered workflows.
 
-- 🔭 Currently freelancing, including integration work for Japanese companies
-- 🌱 Focused on clean architecture, performance, and practical AI in production
-- 🎓 BTEC FPT — Information Technology (2022–2026), GPA 3.9/4.0
-- 💼 Open to full-time opportunities
-- 🌐 Portfolio: https://chang2tech-porfolio.vercel.app/
+Portfolio: https://chang2tech-porfolio.vercel.app/
 
-## 🛠️ Tech Stack
+## About
 
-**Frontend:** React 18 · Next.js 14 · TypeScript · Tailwind CSS · Shadcn/UI · Framer Motion
+I work across the full stack — frontend, backend, data, and deployment — with a focus on clean architecture, performance, and maintainable systems. My recent work includes enterprise knowledge platforms, marketing automation, and data processing pipelines. I am currently freelancing, including integration work with international teams, and I am open to full-time opportunities.
 
-**Backend:** Node.js · NestJS · REST · GraphQL · JWT / OAuth2 / RBAC · WebSocket · BullMQ
+Education: BTEC FPT — Information Technology
 
-**Data & Caching:** PostgreSQL · MongoDB · Redis · Prisma ORM
+## Tech Stack
 
-**System Design:** Microservices · Modular Monolith · Event-Driven Systems · Caching & Performance Strategy
+- **Frontend:** React 18, Next.js 14, TypeScript, Tailwind CSS, Shadcn/UI, Framer Motion
+- **Backend:** Node.js, NestJS, REST, GraphQL, JWT / OAuth2 / RBAC, WebSocket, BullMQ
+- **Data & Caching:** PostgreSQL, MongoDB, Redis, Prisma ORM
+- **System Design:** Microservices, modular monolith, event-driven systems, caching and performance strategy
+- **DevOps & Infrastructure:** Docker, GitHub Actions (CI/CD), Nginx, Cloudflare, Vercel, Render, Linux
+- **Tooling:** Playwright, Postman, Git / GitHub, AI-assisted development tools
 
-**DevOps & Infrastructure:** Docker · GitHub Actions (CI/CD) · Nginx · Cloudflare · Vercel · Render · Linux
+## Featured Projects
 
-**Quality & Tooling:** Playwright · Postman · Git / GitHub · GitHub Copilot · Cursor
+- **Syntor** — AI-powered enterprise knowledge platform with an internal assistant, department wikis, and smart knowledge retrieval. *(In development)*
+- **Kenco** — Multi-platform marketing automation system with AI-assisted content workflows and scheduled publishing. *(In development)*
+- **Booking KOL/KOC** — Full-stack platform connecting brands with influencers, with campaign management, discovery, and performance analytics. Built with Next.js, NestJS, and PostgreSQL.
+- **English Mastery Hub** — English learning platform with video-based practice for all four skills and AI-based performance evaluation.
+- **Orbix** — Website for web templates and web development services.
+- **Estelle** — Real estate search platform that analyzes listing data and recommends properties. Built with Next.js, Node.js, and TypeScript.
 
-## 🚀 Featured Projects
+## Experience
 
-- **Syntor** — AI enterprise knowledge platform with an AI assistant, department wikis, employee training, and smart knowledge retrieval *(in development)*
-- **Kenco** — AI marketing automation system that manages multiple social accounts, generates content workflows, and auto-publishes to Facebook, Instagram, and Threads *(in development)*
-- **Booking KOL/KOC** — Full-stack influencer marketing platform connecting brands with KOLs/KOCs, with campaign management, influencer discovery, and performance analytics (Next.js, NestJS, PostgreSQL)
-- **English Mastery Hub** — AI-powered English learning platform for practicing all four skills with video content, AI performance evaluation, and a learning community
-- **Orbix** — Website for selling web templates and providing web services
-- **Estelle** — AI-powered real estate search platform that analyzes real listing data and recommends properties to users (Next.js, Node.js, TypeScript)
+- **Freelance Developer** — Integration projects for Japanese companies (Nov 2025 – Present)
+- **Freelance Developer** — Automation systems and data processing pipelines (2023 – Present)
+- **Intern Backend Developer** — Biwoco, Can Tho (May 2025 – Jun 2025)
 
-## 💼 Experience
+## Contact
 
-- **Freelance Developer — Japanese Companies Integration** (Nov 2025 – Present): Integrating modules into existing projects with international teams
-- **Freelance Developer — Automation Systems & Data Pipelines** (2023 – Present): Automation, data collection, and processing pipelines for marketing and operations
-- **Intern Backend Developer — Biwoco, Can Tho** (May 2025 – Jun 2025)
-
-## 📊 GitHub Stats
-
-![Chang's GitHub stats](https://github-readme-stats.vercel.app/api?username=changvn2002&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=changvn2002&layout=compact&theme=radical)
-
-## 📫 Contact
-
-- 🌐 Portfolio: https://chang2tech-porfolio.vercel.app/
-- ✉️ Email: chang2tech@gmail.com
-- 📍 Can Tho, Viet Nam
+For work inquiries, please reach me through my portfolio: https://chang2tech-porfolio.vercel.app/
