@@ -68,7 +68,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=changvn2002&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Activity graph"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=changvn2002&theme=tokyonight" width="100%" alt="Profile details"/>
 </div>
 
 ---
@@ -76,7 +76,7 @@
 ## 🏆 Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=changvn2002&theme=tokyonight&no-frame=true&margin-w=6" alt="GitHub trophies"/>
+  <img src="https://github-trophies.vercel.app/?username=changvn2002&theme=tokyonight&no-frame=true&margin-w=6" alt="GitHub trophies"/>
 </div>
 
 ---
